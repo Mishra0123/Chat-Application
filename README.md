@@ -21,20 +21,20 @@ This application provides users with the following features:
 ## Screenshots
 
 ### Register
-![Screenshot 2024-09-01 064008](https://github.com/user-attachments/assets/0e7fc1f7-2f63-4acb-885d-a7d054ec4c91)
+![Screenshot 2024-09-01 064008](https://github.com/user-attachments/assets/46272f01-f63e-4824-9972-261df73f822c)
 
 ### Login
-![Screenshot 2024-09-01 063953](https://github.com/user-attachments/assets/76983705-b88a-45e3-988a-8aafe34359b6)
+![Screenshot 2024-09-01 063953](https://github.com/user-attachments/assets/9f5ed232-a1f0-46af-a2c9-b01e3c0b28d1)
 
 ### Global Chat
-![Screenshot 2024-09-01 064242](https://github.com/user-attachments/assets/645d90eb-f36b-4f14-a28b-8e317e6f4b8a)
+![Screenshot 2024-09-01 064242](https://github.com/user-attachments/assets/1400ef67-2867-411f-8e4a-6f08ef99db76)
 
-![Screenshot 2024-09-01 070654](https://github.com/user-attachments/assets/918e2a60-f279-4e7e-83d1-821fea73096a)
+![Screenshot 2024-09-01 070654](https://github.com/user-attachments/assets/c5e81cb5-6848-4000-8a0b-1d547ca0e5d4)
 
 ### Private Chat
-![Screenshot 2024-09-01 064332](https://github.com/user-attachments/assets/0eb14af0-f18f-40bf-b84f-a7de21b712cb)
+![Screenshot 2024-09-01 064332](https://github.com/user-attachments/assets/ff0d5580-6185-4173-94f7-316f97fe8353)
 
-![Screenshot 2024-09-01 070119](https://github.com/user-attachments/assets/452ead9c-1e6e-44db-863e-5eb9e1e6ba79)
+![Screenshot 2024-09-01 070119](https://github.com/user-attachments/assets/e2df31b0-9f41-4d1c-9db1-e4d01a192169)
 
 # How to use
 
